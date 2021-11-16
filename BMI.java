@@ -1,4 +1,3 @@
-import java.math.BigDecimal;
 
 public class BMI {
     public static void main(String[] args) {
